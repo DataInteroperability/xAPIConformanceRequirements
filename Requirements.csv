@@ -1,6 +1,3 @@
----------------------------------------------------------------------------------
-Column 1      Column 2                                                Column 3
------------- ------------------------------------------------------  ------------
 Req#,Requirement,Explanation,Testable Assertions,Test cases,Tags,Priority,Version & Section/Sub-Section,Comments,Status,Date Integrated,AHA Idea reference
 ,An LRS's Statement API upon processing a successful POST request returns code 200 OK and all Statement UUIDs within the POST **Implicit**,,,,"Implied by spec,Statement API",2,"""1.0.2_ref_text"": ""7.2.2"",
 
